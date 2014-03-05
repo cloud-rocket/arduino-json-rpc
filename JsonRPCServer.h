@@ -1,6 +1,6 @@
 /*
   JsonRPCServer.h - Simple JSON-RPC Server for Arduino
-  Created by Meir Tseitlin, March 5, 2014. This code is initially based on https://code.google.com/p/ajson-rpc/
+  Created by Meir Tseitlin, March 5, 2014. This code is based on https://code.google.com/p/ajson-rpc/
   Released under GPLv2 license.
 */
 
