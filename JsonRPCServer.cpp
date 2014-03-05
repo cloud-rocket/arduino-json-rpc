@@ -5,7 +5,7 @@
 */
 #include "Arduino.h"
 #include "aJSON.h"
-#include "JsonRPC.h"
+#include "JsonRPCServer.h"
 
 JsonRPCServer::JsonRPCServer(Stream* stream): _jsonStream(stream) {
 	
