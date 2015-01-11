@@ -125,7 +125,7 @@ void JsonRPCServer::process() {
 			processMessage(msg);
 			aJson.deleteItem(msg);
 			} else {
-			Serial.flush();
+			_jsonStream.flush();
 		}
 	}
 	
